@@ -2,7 +2,7 @@
 
 #### About
 
-A System Engineer at Axaipay, I enhance the design in both backend and frontend. I collaborate with Operations to understand business needs and translate them into solutions for R&D department. I also monitor cloud infrastructure such as Huawei Cloud.
+A System Engineer at Axaipay. I enhance the design in both backend and frontend. I collaborate with Operations and Business department to understand business needs and translate them into solutions for R&D department. I also monitor cloud infrastructure such as Huawei Cloud.
 I have strong technical skills in system analysis, testing, and maintenance of web-based applications, using various tools and frameworks.
 I hold a Bachelor's degree in Software Engineer. 
 
