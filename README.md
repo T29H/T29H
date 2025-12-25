@@ -2,7 +2,7 @@
 
 #### About
 
-A System Engineer at Axaipay. I enhance the design in both backend and frontend. I collaborate with Operations and Business department to understand business needs and translate them into solutions for R&D department. I also monitor cloud infrastructure such as Huawei Cloud.
+A Software Engineer / Java Backend Enginer. I excel in both backend and frontend. 
 I have strong technical skills in system analysis, testing, and maintenance of web-based applications, using various tools and frameworks.
 I hold a Bachelor's degree in Software Engineer. 
 
@@ -29,7 +29,7 @@ I hold a Bachelor's degree in Software Engineer.
 
 ## Reach me
 
-- SummerXia (Discord)
+- SummerXia ([Discord](https://discordapp.com/users/307371634229116930))
 
 ## Repo Stats
 
