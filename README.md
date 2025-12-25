@@ -32,12 +32,6 @@ I hold a Bachelor's degree in Software Engineer.
 - SummerXia ([Discord](https://discordapp.com/users/307371634229116930))
 
 ## Repo Stats
-
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=t29h&layout=compact&theme=dark&custom_title=Languages%20in%20my%20repo)](https://github.com/anuraghazra/github-readme-stats)
-
-![T29H's GitHub stats](https://github-readme-stats.vercel.app/api?username=t29h&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues)
-
-
 <!--
 **T29H/T29H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
