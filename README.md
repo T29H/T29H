@@ -24,8 +24,7 @@ I hold a Bachelor's degree in Software Engineer.
 
 ## Interests and Learning
 
-- Data Analysis & Machine Learning
-- Physics and Simulations (Blender)
+- None. Upskilling!!
 
 ## Reach me
 
@@ -33,7 +32,7 @@ I hold a Bachelor's degree in Software Engineer.
 
 ## Repo Stats
 <!--
-**T29H/T29H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Quartermon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
